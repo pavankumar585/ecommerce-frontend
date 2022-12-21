@@ -1,0 +1,13 @@
+.clickable {
+  cursor: pointer;
+}
+
+.disabled {
+  background: #f6f5f5 !important;
+  color: #c8c0c0 !important;
+  pointer-events: none;
+}
+
+.toastify {
+  top: 55px !important;
+}

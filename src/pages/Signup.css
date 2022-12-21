@@ -1,0 +1,12 @@
+.signup {
+  height: 92.2vh;
+  background-color: aliceblue;
+}
+
+.signup-form {
+  background-color: white;
+  padding-inline: 20px;
+  padding-block: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 0px gray;
+}

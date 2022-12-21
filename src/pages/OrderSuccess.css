@@ -1,0 +1,10 @@
+.order-header {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+@media all and (max-width: 426px) {
+  .order-header {
+    font-size: 22px;
+  }
+}

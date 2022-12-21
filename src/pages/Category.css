@@ -1,0 +1,8 @@
+.category-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #182e39;
+  height: 150px;
+  color: white;
+}

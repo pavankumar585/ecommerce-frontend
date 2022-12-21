@@ -1,0 +1,9 @@
+.check-out-btn {
+  width: 200px;
+}
+
+@media all and (max-width: 768px) {
+  .check-out-btn {
+    width: 130px;
+  }
+}

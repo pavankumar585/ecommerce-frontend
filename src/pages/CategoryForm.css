@@ -1,0 +1,16 @@
+.image-preview-container img {
+  object-fit: cover;
+  object-position: center;
+  width: 580px;
+  height: 640px;
+}
+
+.image-preview-container p {
+  background-color: aliceblue;
+  border: 1px solid gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 580px;
+  height: 640px;
+}

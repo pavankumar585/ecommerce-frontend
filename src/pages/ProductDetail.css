@@ -1,0 +1,12 @@
+.product-img {
+  object-fit: cover;
+  object-position: center;
+  width: 350px;
+  height: 390px;
+}
+
+@media all and (max-width: 375px) {
+  .product-img {
+    width: 100%;
+  }
+}

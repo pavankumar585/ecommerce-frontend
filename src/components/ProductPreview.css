@@ -1,0 +1,16 @@
+.product-card {
+  width: 200px;
+  margin: 20px;
+  text-decoration: none;
+  transition: all 0.3s linear;
+}
+
+.product-card-img {
+  height: 220px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.product-card:hover {
+  transform: scale(1.05);
+}

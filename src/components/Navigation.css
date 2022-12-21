@@ -1,0 +1,19 @@
+.nav-cart-info {
+  position: relative;
+}
+
+.nav-cart-info .badge {
+  position: absolute;
+  top: -4px;
+  right: -8px;
+  padding-inline: 5px;
+  padding-block: 2px;
+}
+
+.cart-color {
+  color: black;
+}
+
+.cart-color:hover {
+  color: black;
+}

@@ -1,0 +1,10 @@
+.home-container img {
+  width: 100%;
+}
+
+@media all and (max-width: 992px) {
+  .logo-banner,
+  .offer-banner {
+    display: none;
+  }
+}
