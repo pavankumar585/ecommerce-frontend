@@ -96,7 +96,7 @@ function Cart() {
                 </div>
                 <CheckOut onDisabled={handleDisabled} />
                 <Link
-                  to="/products/categories/all"
+                  to="/products/category/all"
                   className="text-decoration-none text-muted mt-2 continue-shop"
                 >
                   <FaLongArrowAltLeft /> Continue Shopping
